@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div >
       <Navbar />
-      <div className="bg-white shadow-lg p-8 md:mt-56 max-sm:mt-16 rounded-lg max-w-2xl mx-auto">
+      <div className="bg-white shadow-lg p-8 md:mt-56  max-sm:mt-36 rounded-lg max-w-2xl mx-auto">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">
           My Assignment of Quantum IT Innovation
         </h1>
